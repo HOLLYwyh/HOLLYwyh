@@ -1,4 +1,4 @@
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=HOLLYwyh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=HOLLYwyh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 大家好~欢迎来到我的GitHub~
 
 你可以了解到这些信息
