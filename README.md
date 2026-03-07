@@ -7,6 +7,13 @@
 
 欢迎来找我玩~  
 
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/HOLLYwyh/HOLLYwyh/output/github-contribution-grid-snake.svg)
+
+### 👀 Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=HOLLYwyh&label=Visitors&color=blue&style=flat-square)
 
 
 <!--
